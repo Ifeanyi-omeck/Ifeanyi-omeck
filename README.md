@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based in the United Kingdom. I have a M.Sc in Applied Statistics and Data Mining from the University of St Andrews, Scotland and a B.sc in Business Management and Marketing from the Niger Delta University, Nigeria.
+
 <!--
 **Ifeanyi-omeck/Ifeanyi-omeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
