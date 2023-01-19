@@ -3,8 +3,11 @@
 I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based in the United Kingdom. I am currently studying Applied Statistics and Data Mining M.sc from the University of St Andrews, Scotland.
 
 📫 How to reach me: iomeife@gmail.com <br>
+<br>
 ⚡ Fun fact: I love traveling, Learning new languages and trying new foods. <br>
+<br>
 🌱 I’m currently studying applied statistics and Data mining with focus on machine learning. <br>
+<br>
 🔭 I’m currently working on a NLP project for language translation.
 
 <!--
