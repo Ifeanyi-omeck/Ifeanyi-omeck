@@ -12,7 +12,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 🤔 I am interested in Data Analytics, statistical modelling, Computer Vision, Natural language processing and Machine learning.<br>
 
-😄 One of my favorite quotes is to 'dare to win!.
+😄 One of my favorite quotes is  'dare to win!.
 
 <!--
 **Ifeanyi-omeck/Ifeanyi-omeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
