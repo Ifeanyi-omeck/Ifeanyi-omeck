@@ -4,7 +4,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 📫 How to reach me: iomeife@gmail.com <br>
 <br>
-⚡ Fun fact: I love traveling, Learning new languages and trying new foods. <br>
+⚡ Fun fact: I love rapping and I occassionally take singing breaks when studying lol. <br>
 <br>
 🌱 I’m currently studying applied statistics and Data mining with focus on machine learning. <br>
 <br>
@@ -12,7 +12,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 🤔 I am interested in Data Analytics, Computer Vision, Natural language processing and Machine learning.<br>
 
-One of my favorite quotes is to 'dare to win!.
+😄 One of my favorite quotes is to 'dare to win!.
 
 <!--
 **Ifeanyi-omeck/Ifeanyi-omeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
