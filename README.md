@@ -8,7 +8,9 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 <br>
 🌱 I’m currently studying applied statistics and Data mining with focus on machine learning. <br>
 <br>
-🔭 I’m currently working on a NLP project for language translation.
+🔭 I’m currently working on a NLP project for language translation. 
+
+🤔 I am interested in Data Analytics, Computer Vision, Natural language processing and Machine learning.
 
 <!--
 **Ifeanyi-omeck/Ifeanyi-omeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
