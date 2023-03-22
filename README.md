@@ -19,7 +19,14 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeanyi-omeck&show_icons=true&count_private=true&theme=radical&compact=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;">
+  <div style="flex:1;padding-right:10px;">
+    [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeanyi-omeck&show_icons=true&count_private=true&theme=radical&compact=true)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div style="flex:1;padding-left:10px;">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-omeck&layout=compact&langs_count=6)](https://github.com/myusername)
+  </div>
+</div>
 
 
 
