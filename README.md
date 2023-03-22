@@ -14,6 +14,9 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 😄 One of my favorite quotes is  'dare to win!.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifeanyi-omeck)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Ifeanyi-omeck/Ifeanyi-omeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
