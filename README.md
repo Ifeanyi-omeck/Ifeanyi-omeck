@@ -16,6 +16,9 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifeanyi-omeck)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true&count_private=true&theme=radical&compact=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Ifeanyi-omeck/Ifeanyi-omeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
