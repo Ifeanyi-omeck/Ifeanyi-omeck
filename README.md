@@ -17,16 +17,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ifeanyi-omeck&show_icons=true&count_private=true&theme=radical&compact=true"/></td>
-    <td>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      </p>
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-omeck&layout=compact&langs_count=6&theme=radical"/></td>
   </tr>
 </table>
 
