@@ -19,7 +19,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-omeck&layout=compact&langs_count=10)](https://github.com/myusername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-omec&layout=compact&langs_count=10)](https://github.com/myusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-omeck&layout=compact&langs_count=10)](https://github.com/myusername)
 
 <!--
 **Ifeanyi-omeck/Ifeanyi-omeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
