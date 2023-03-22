@@ -16,8 +16,8 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 
 <div style="display:flex;">
   <div style="flex:1;padding-right:10px;">
-    <p><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" alt="Python" width="50" height="50"/> Python</p>
-    <p><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50"/> MySQL</p>
+    <p><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" alt="Python" width="50" height="50"/> Python</p>   <p><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50"/> MySQL</p>
+  
     <p><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50"/> PostgreSQL</p>
     <p><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r-lang/r-lang.png" alt="R" width="50" height="50"/> R</p>
     <p><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/tensorflow/tensorflow.png" alt="TensorFlow" width="50" height="50"/> TensorFlow</p>
