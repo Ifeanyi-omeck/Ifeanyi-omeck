@@ -10,7 +10,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 <br>
 🔭 I’m currently working on a NLP project for language translation. 
 
-🤔 I am interested in Data Analytics, statistical modelling(Frequentist and Bayern Models), Computer Vision, Natural language processing and Machine learning.<br>
+🤔 I am interested in Data Analytics, statistical modelling(Frequentist and Bayesian Models), Computer Vision, Natural language processing and Machine learning.<br>
 
 😄 One of my favorite quotes is  'dare to win!.
 
