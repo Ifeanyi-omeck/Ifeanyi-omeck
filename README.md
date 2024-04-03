@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ifeanyi Anthony Omeife, a data scientist and machine learning engineer based in the United Kingdom. I am currently studying Applied Statistics and Data Mining M.sc from the University of St Andrews, Scotland.
+I am Ifeanyi Anthony Omeife, a data scientist and machine learning engineer based in the United Kingdom.  Applied Statistics @ University of St Andrews
 
 📫 How to reach me: iomeife@gmail.com <br>
 <br>
