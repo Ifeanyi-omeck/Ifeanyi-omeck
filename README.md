@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based in the United Kingdom. I am currently studying Applied Statistics and Data Mining M.sc from the University of St Andrews, Scotland.
+I am Ifeanyi Anthony Omeife, a data scientist and machine learning engineer based in the United Kingdom. I am currently studying Applied Statistics and Data Mining M.sc from the University of St Andrews, Scotland.
 
 📫 How to reach me: iomeife@gmail.com <br>
 <br>
@@ -10,7 +10,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and deep learning developer based 
 <br>
 🔭 I’m currently working on a NLP project for language translation. 
 
-🤔 I am interested in Data Analytics, statistical modelling(Frequentist and Bayesian Models), Computer Vision, Natural language processing and Machine learning.<br>
+🤔 I am interested in  Computer Vision, Natural language processing and Reinforcement Learning.<br>
 
 😄 One of my favorite quotes is  'dare to win!.
 
