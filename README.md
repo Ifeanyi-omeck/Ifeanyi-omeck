@@ -5,12 +5,8 @@ I am Ifeanyi Anthony Omeife, a data scientist and machine learning engineer base
 📫 How to reach me: iomeife@gmail.com <br>
 <br>
 ⚡ Fun fact: I love rapping and I occassionally take singing breaks when studying lol. <br>
-<br>
-🌱 I’m currently studying applied statistics and Data mining with focus on machine learning. <br>
-<br>
-🔭 I’m currently working on a NLP project for language translation. 
 
-🤔 I am interested in  Computer Vision, Natural language processing and Reinforcement Learning.<br>
+🤔 I am interested in  Computer Vision, Natural language processing, and Reinforcement Learning.<br>
 
 😄 One of my favorite quotes is  'dare to win!.
 
