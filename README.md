@@ -14,17 +14,6 @@ I am Ifeanyi Anthony Omeife, a data scientist and machine learning engineer base
 
 😄 One of my favorite quotes is  'dare to win!.
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ifeanyi-omeck&show_icons=true&count_private=true&theme=radical&compact=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-omeck&show_icons=true&count_private=true&theme=radical&compact=true"/></td>
-  </tr>
-</table>
-
-
-
-
-
 
 
 <!--
