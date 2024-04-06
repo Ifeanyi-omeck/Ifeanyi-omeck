@@ -6,7 +6,10 @@ I am Ifeanyi Anthony Omeife, a data scientist and machine learning engineer base
 <br>
 ⚡ Fun fact: I love rapping and I occassionally take singing breaks when studying lol. <br>
 
-🤔 I am interested in  Computer Vision, Natural language processing, and Reinforcement Learning.<br>
+🤔 I am interested in  
+- Computer Vision
+- , and
+- Reinforcement Learning.<br>
 
 😄 One of my favorite quotes is  'dare to win!.
 
