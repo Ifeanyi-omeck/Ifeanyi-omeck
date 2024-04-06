@@ -8,7 +8,7 @@ I am Ifeanyi Anthony Omeife, a data scientist and machine learning engineer base
 
 🤔 I am interested in  
 - Computer Vision
-- , and
+- Machine Learning
 - Reinforcement Learning.<br>
 
 😄 One of my favorite quotes is  'dare to win!.
